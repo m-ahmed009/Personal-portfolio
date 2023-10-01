@@ -1,0 +1,30 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  #btn3 {
+    display: none;
+  }
+
+  .card-text {
+    display: none;
+  }
+
+  .navbar-collapse {
+    background: rgb(255, 130, 34);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 14px 32px 39px;
+    padding: 0px 5px;
+  }
+
+  .btn {
+    border-radius: 0px;
+    padding: 1px 8px;
+    position: relative;
+    bottom: 5px;
+    left: 7px;
+  }
+  .footi
+  {
+    position: relative;
+    top: 19rem;
+  }
+
+}
